@@ -1,0 +1,17 @@
+{
+  "name": "SignVoice",
+  "short_name": "SignVoice",
+  "description": "ภาษามือเป็นข้อความและเสียง",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070a0f",
+  "theme_color": "#070a0f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
